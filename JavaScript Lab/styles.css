@@ -1,0 +1,38 @@
+body{
+    background-color: grey;
+}
+
+.grid{
+    width:600px;
+    height:500px;
+    margin:0 auto;
+    background-color:white;
+    padding:10px 50px 50px 50px;
+    border:2px solid;
+}
+
+.grid h1{
+    background-color:green;
+    color:white;
+    font-size:60px;
+    text-align: center;
+}
+
+.grid #question{
+    font-size:30px;
+    color:blue;
+}
+
+#btn1,#btn2,#btn3,#btn4{
+    background-color:blue;
+    color:white;
+    border:1px solid;
+    font-size:20px;
+    width:250px;
+    padding:10px;
+    margin:10px 40px 10px 0px;
+}
+
+#progress{
+    font-size:20px;
+}
